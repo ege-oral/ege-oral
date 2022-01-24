@@ -7,17 +7,16 @@
 - 🌱 Currently learning a lot of stuff.
 - 👨‍🎓 I'm senior computer engineering student.
 - 🎯 2022 Goals: I'am learning python in advanced level.
-- ⚡ Fun fact: I love to 
+- 
+- ⚡ I love to read books 📚 and play video games 🎮.
 
-### Connect with me:
+## Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ege%20Oral-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ege-oral-00b514196/)](https://www.linkedin.com/in/ashlyemavericks/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ege%20Oral-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ege-oral-00b514196/)](https://www.linkedin.com/in/ege-oral-00b514196/) 
 [![Gmail Badge](https://img.shields.io/badge/-egeoral@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:egeoral@gmail.com)](mailto:egeoral@gmail.com) 
-
-
+[![Stackoverflow](https://img.shields.io/badge/-EgeO-c14438?style=social&logo=StackOverflow&logoColor=red&link=https://stackoverflow.com/users/13588467/egeo)](https://stackoverflow.com/users/13588467/egeo) 
 <br />
 
-### Languages and Tools:
 
 ## Programming Languages
 Python, C#
