@@ -7,7 +7,6 @@
 - 🌱 Currently learning a lot of stuff.
 - 👨‍🎓 I'm senior computer engineering student.
 - 🎯 2022 Goals: I'am learning python in advanced level.
-- 
 - ⚡ I love to read books 📚 and play video games 🎮.
 
 ## Connect with me:
@@ -15,39 +14,34 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ege%20Oral-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ege-oral-00b514196/)](https://www.linkedin.com/in/ege-oral-00b514196/) 
 [![Gmail Badge](https://img.shields.io/badge/-egeoral@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:egeoral@gmail.com)](mailto:egeoral@gmail.com) 
 [![Stackoverflow](https://img.shields.io/badge/-EgeO-c14438?style=social&logo=StackOverflow&logoColor=red&link=https://stackoverflow.com/users/13588467/egeo)](https://stackoverflow.com/users/13588467/egeo) 
-<br />
+<br /><br /><br />
 
+```python
+#!/usr/bin/env python3
+class ComputerEngineer:
+    def __init__(self):
+        self.name = "Ege"
+        self.last_name = "Oral"
+        self.know_programming_languages = ["Python", "C#", "SQL", "C", "Java"]
+        self.know_markup_languages = ["HTML", "CSS"]
+        self.interests = ["Cyber Security", "Unity Game Engine", "Artificial Intelligence"]
+        
+    def say_hello(self):
+        print(f"Hello There, my name is {self.name} {self.last_name}.")
+    
+    def my_interests(self):
+        print("My interests are:")
+        print(*(self.interests), sep="\n")
 
-## Programming Languages
-Python, C#
-<br />
-<br />
+me = ComputerEngineer()
+me.say_hello()
+me.my_interests()
+```
 
----
-
-
-
-
-
-
-
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
 <div align="center">
-<p>Have a good day!</p>
+<p>Thank you for visiting, have a good day!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
