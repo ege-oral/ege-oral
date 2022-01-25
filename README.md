@@ -15,7 +15,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-egeoral@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:egeoral@gmail.com)](mailto:egeoral@gmail.com) 
 [![Stackoverflow](https://img.shields.io/badge/-EgeO-c14438?style=social&logo=StackOverflow&logoColor=red&link=https://stackoverflow.com/users/13588467/egeo)](https://stackoverflow.com/users/13588467/egeo) 
 <br /><br /><br />
-
 ```python
 #!/usr/bin/env python3
 class ComputerEngineer:
@@ -37,9 +36,6 @@ me = ComputerEngineer()
 me.say_hello()
 me.my_interests()
 ```
-
-
-
 <div align="center">
 <p>Thank you for visiting, have a good day!</p>
 <div>
