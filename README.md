@@ -16,7 +16,7 @@
 [![Stackoverflow](https://img.shields.io/badge/-EgeO-c14438?style=social&logo=StackOverflow&logoColor=red&link=https://stackoverflow.com/users/13588467/egeo)](https://stackoverflow.com/users/13588467/egeo) 
 <br />
 My Hackerrank Profile: <a href="https://www.hackerrank.com/egeoral"> Ege Oral </a>
-<br /><br /><br />
+<br /><br />
 ```python
 #!/usr/bin/env python3
 class ComputerEngineer:
