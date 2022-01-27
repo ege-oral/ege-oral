@@ -1,4 +1,5 @@
 ### Hello there, I'm Ege
+![](https://komarev.com/ghpvc/?username=ege-oral)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
