@@ -1,5 +1,4 @@
 ### Hello there, I'm Ege
-![](https://komarev.com/ghpvc/?username=ege-oral)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
@@ -9,7 +8,9 @@
 - 👨‍🎓 I'm senior computer engineering student.
 - 🎯 2022 Goals: I'am learning python in advanced level.
 - ⚡ I love to read books 📚 and play video games 🎮.
+<br />
 
+![](https://komarev.com/ghpvc/?username=ege-oral)
 ## Connect with me: ege
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ege%20Oral-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ege-oral-00b514196/)](https://www.linkedin.com/in/ege-oral-00b514196/) 
@@ -17,7 +18,9 @@
 [![Stackoverflow](https://img.shields.io/badge/-EgeO-c14438?style=social&logo=StackOverflow&logoColor=red&link=https://stackoverflow.com/users/13588467/egeo)](https://stackoverflow.com/users/13588467/egeo) 
 <br />
 My Hackerrank Profile: <a href="https://www.hackerrank.com/egeoral"> Ege Oral </a>
-<br /><br />
+
+<br />
+
 ```python
 #!/usr/bin/env python3
 class ComputerEngineer:
