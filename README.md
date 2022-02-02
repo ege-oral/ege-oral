@@ -11,7 +11,7 @@
 <br />
 
 ![](https://komarev.com/ghpvc/?username=ege-oral)
-## Connect with me: ege
+## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ege%20Oral-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ege-oral-00b514196/)](https://www.linkedin.com/in/ege-oral-00b514196/) 
 [![Gmail Badge](https://img.shields.io/badge/-egeoral@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:egeoral@gmail.com)](mailto:egeoral@gmail.com) 
