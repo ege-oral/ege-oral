@@ -42,6 +42,13 @@ me = ComputerEngineer()
 me.say_hello()
 me.my_interests()
 ```
+```
+Hello There, my name is Ege Oral.
+My interests are:      
+Cyber Security
+Unity Game Engine      
+Artificial Intelligence
+```
 <div align="center">
 <p>Thank you for visiting, have a good day!</p>
 <div>
