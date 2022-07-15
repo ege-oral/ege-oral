@@ -2,10 +2,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Pc Enthusiast and Geek.
+## I'm a Pc Enthusiast.
 
 - 🌱 Currently learning a lot of stuff.
-- 👨‍🎓 I'm senior computer engineering student.
+- 👨‍💻 I'm a computer engineer.
 - 🎯 2022 Goals: I'am learning python in advanced level.
 - ⚡ I love to read books 📚 and play video games 🎮.
 <br />
