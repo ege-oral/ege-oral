@@ -32,28 +32,22 @@ class ComputerEngineer:
         self.interests = ["Unity Game Engine", "Artificial Intelligence", "Web Development", "Cyber Security"]
         
     def say_hello(self):
-        print(f"Hello There, my name is {self.name} {self.last_name}.")
+        return f"Hello There, my name is {self.name} {self.last_name}."
     
     def known_programming_languages(self):
-        programming_languages = "Known programming languages are: "
-        programming_languages += ", ".join(str(x) for x in self.programming_languages) + "."
-        print(programming_languages)
+        return "Known programming languages are: " + ", ".join(str(x) for x in self.programming_languages) + "."
 
     def known_markup_languages(self):
-        markup_languages = "Known markup languages are: "
-        markup_languages += ", ".join(str(x) for x in self.markup_languages) + "."
-        print(markup_languages)
+        return "Known markup languages are: " + ", ".join(str(x) for x in self.markup_languages) + "."
 
     def my_interests(self):
-        interests = "My interests are: "
-        interests += ", ".join(str(x) for x in self.interests) + "."
-        print(interests)
+        return "My interests are: " + ", ".join(str(x) for x in self.interests) + "."
 
     def introduce_yourself(self):
-        self.say_hello()
-        self.known_programming_languages()
-        self.known_markup_languages()
-        self.my_interests()
+        print(self.say_hello())
+        print(self.known_programming_languages())
+        print(self.known_markup_languages())
+        print(self.my_interests())
 
 me = ComputerEngineer()
 me.introduce_yourself()
