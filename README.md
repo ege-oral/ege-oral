@@ -27,27 +27,42 @@ class ComputerEngineer:
     def __init__(self):
         self.name = "Ege"
         self.last_name = "Oral"
-        self.know_programming_languages = ["Python", "C#", "SQL", "C", "Java"]
-        self.know_markup_languages = ["HTML", "CSS"]
-        self.interests = ["Cyber Security", "Unity Game Engine", "Artificial Intelligence"]
+        self.programming_languages = ["Python", "JavaScript", "C#", "SQL", "C", "Java"]
+        self.markup_languages = ["HTML", "CSS"]
+        self.interests = ["Unity Game Engine", "Artificial Intelligence", "Web Development", "Cyber Security"]
         
     def say_hello(self):
         print(f"Hello There, my name is {self.name} {self.last_name}.")
     
+    def known_programming_languages(self):
+        programming_languages = "Known programming languages are: "
+        programming_languages += ", ".join(str(x) for x in self.programming_languages) + "."
+        print(programming_languages)
+
+    def known_markup_languages(self):
+        markup_languages = "Known markup languages are: "
+        markup_languages += ", ".join(str(x) for x in self.markup_languages) + "."
+        print(markup_languages)
+
     def my_interests(self):
-        print("My interests are:")
-        print(*(self.interests), sep="\n")
+        interests = "My interests are: "
+        interests += ", ".join(str(x) for x in self.interests) + "."
+        print(interests)
+
+    def introduce_yourself(self):
+        self.say_hello()
+        self.known_programming_languages()
+        self.known_markup_languages()
+        self.my_interests()
 
 me = ComputerEngineer()
-me.say_hello()
-me.my_interests()
+me.introduce_yourself()
 ```
 ```
 Hello There, my name is Ege Oral.
-My interests are:      
-Cyber Security
-Unity Game Engine      
-Artificial Intelligence
+Known programming languages are: Python, JavaScript, C#, SQL, C, Java.
+Known markup languages are: HTML, CSS.
+My interests are: Unity Game Engine, Artificial Intelligence, Web Development, Cyber Security.
 ```
 <div align="center">
 <p>Thank you for visiting, have a good day!</p>
