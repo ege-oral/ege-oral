@@ -27,27 +27,27 @@ class ComputerEngineer:
     def __init__(self):
         self.name = "Ege"
         self.last_name = "Oral"
-        self.programming_languages = ["Python", "JavaScript", "C#", "SQL", "C", "Java"]
-        self.markup_languages = ["HTML", "CSS"]
-        self.interests = ["Unity Game Engine", "Artificial Intelligence", "Web Development", "Cyber Security"]
+        self.known_programming_languages = ["Python", "JavaScript", "C#", "SQL", "C", "Java"]
+        self.known_markup_languages = ["HTML", "CSS"]
+        self.my_interests = ["Unity Game Engine", "Artificial Intelligence", "Web Development", "Cyber Security"]
         
     def say_hello(self):
         return f"Hello There, my name is {self.name} {self.last_name}."
     
-    def known_programming_languages(self):
-        return "Known programming languages are: " + ", ".join(str(x) for x in self.programming_languages) + "."
+    def _known_programming_languages(self):
+        return "Known programming languages are: " + ", ".join(str(x) for x in self.known_programming_languages) + "."
 
-    def known_markup_languages(self):
-        return "Known markup languages are: " + ", ".join(str(x) for x in self.markup_languages) + "."
+    def _known_markup_languages(self):
+        return "Known markup languages are: " + ", ".join(str(x) for x in self.known_markup_languages) + "."
 
-    def my_interests(self):
-        return "My interests are: " + ", ".join(str(x) for x in self.interests) + "."
+    def _my_interests(self):
+        return "My interests are: " + ", ".join(str(x) for x in self.my_interests) + "."
 
     def introduce_yourself(self):
         print(self.say_hello())
-        print(self.known_programming_languages())
-        print(self.known_markup_languages())
-        print(self.my_interests())
+        print(self._known_programming_languages())
+        print(self._known_markup_languages())
+        print(self._my_interests())
 
 me = ComputerEngineer()
 me.introduce_yourself()
