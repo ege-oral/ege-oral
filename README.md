@@ -53,7 +53,7 @@ me = ComputerEngineer()
 me.introduce_yourself()
 ```
 ```
-Hello There, my name is Ege Oral.
+Hello There, my name is Ege Oral
 Known programming languages are: Python, JavaScript, C#, SQL, C, Java.
 Known markup languages are: HTML, CSS.
 My interests are: Unity Game Engine, Artificial Intelligence, Web Development, Cyber Security.
