@@ -7,7 +7,7 @@
 - 🌱 Currently learning a lot of stuff.
 - 👨‍💻 I'm a computer engineer.
 - 🎯 2022 Goals: I'am learning python in advanced level.
-- ⚡ I love to read books 📚 and play video games 🎮
+- ⚡ I love to read books 📚 and play video games 🎮.
 <br />
 
 ![](https://komarev.com/ghpvc/?username=ege-oral)
