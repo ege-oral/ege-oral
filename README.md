@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning a lot of stuff.
 - 👨‍💻 I'm a computer engineer.
-- 🎯 2022 Goals: I'am learning Unity in advanced level.
+- 🎯 Goals: I'am learning Unity in advanced level.
 - ⚡ I love to read books 📚 and play video games 🎮.
 <br />
 
