@@ -54,7 +54,7 @@ I'm currently exploring:
 ---
 
 <div align="center">
-<p>Thanks for stopping by! Feel free to check out my pinned repos or reach out if you're working on something exciting., have a good day!</p>
+<p>Thanks for stopping by! Feel free to check out my pinned repos or reach out if you're working on something exciting. Have a good day!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
