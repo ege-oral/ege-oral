@@ -1,65 +1,60 @@
-### Hello there, I'm Ege
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320"/>
+# 👋 Hello There, I'm Ege ORAL
 
+🎮 Computer Engineer | Game Developer at @Zynga
 
-## I'm a Pc Enthusiast.
+---
 
-- 🌱 Currently learning a lot of stuff.
-- 👨‍💻 I'm a computer engineer.
-- 🎯 Goals: I'am learning Unity in advanced level.
-- ⚡ I love to read books 📚 and play video games 🎮.
-<br />
+## 🧠 About Me
 
-![](https://komarev.com/ghpvc/?username=ege-oral)
-## Connect with me:
+I'm a game developer with over 3 years of professional experience building **2D and 3D casual mobile games** using Unity. I've worked at leading studios like:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ege%20Oral-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ege-oral-00b514196/)](https://www.linkedin.com/in/ege-oral-00b514196/) 
-[![Gmail Badge](https://img.shields.io/badge/-egeoral@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:egeoral@gmail.com)](mailto:egeoral@gmail.com) 
-[![Stackoverflow](https://img.shields.io/badge/-EgeO-c14438?style=social&logo=StackOverflow&logoColor=red&link=https://stackoverflow.com/users/13588467/egeo)](https://stackoverflow.com/users/13588467/egeo) 
-<br />
-My Hackerrank Profile: <a href="https://www.hackerrank.com/egeoral"> Ege Oral </a>
+- **Zynga**
+- **Moon Active**
+- **Good Job Games**
 
-<br />
+Outside of work, I also enjoy creating side projects, experimenting with new mechanics, and exploring new game concepts.
 
-```python
-#!/usr/bin/env python3
-class ComputerEngineer:
-    def __init__(self):
-        self.name = "Ege"
-        self.last_name = "Oral"
-        self.known_programming_languages = ["Python", "JavaScript", "C#", "SQL", "C", "Java"]
-        self.known_markup_languages = ["HTML", "CSS"]
-        self.my_interests = ["Unity Game Engine", "Artificial Intelligence", "Web Development", "Cyber Security"]
-        
-    def say_hello(self):
-        return f"Hello There, my name is {self.name} {self.last_name}."
-    
-    def _known_programming_languages(self):
-        return "Known programming languages are: " + ", ".join(str(x) for x in self.known_programming_languages) + "."
+---
 
-    def _known_markup_languages(self):
-        return "Known markup languages are: " + ", ".join(str(x) for x in self.known_markup_languages) + "."
+## 💡 What I Do
 
-    def _my_interests(self):
-        return "My interests are: " + ", ".join(str(x) for x in self.my_interests) + "."
+- ✨ Build engaging, responsive mobile gameplay using **Unity**
+- 📦 Design modular, scalable systems with clean architecture
+- ⚙️ Optimize performance for mobile devices
+- 🔧 Integrate features like **animations**, **UI**, **VFX**, and **custom tools**
+- 🎯 Work with **addressables**, **URP**, **Zenject**, and more
 
-    def introduce_yourself(self):
-        print(self.say_hello())
-        print(self._known_programming_languages())
-        print(self._known_markup_languages())
-        print(self._my_interests())
+---
 
-me = ComputerEngineer()
-me.introduce_yourself()
-```
-```
-Hello There, my name is Ege Oral.
-Known programming languages are: Python, JavaScript, C#, SQL, C, Java.
-Known markup languages are: HTML, CSS.
-My interests are: Unity Game Engine, Artificial Intelligence, Web Development, Cyber Security.
-```
+## 🛠️ Technologies & Tools
+
+- **Languages**: C#, Python 
+- **Game Engine**: Unity
+- **Frameworks**: Zenject, DOTween, UniTask
+- **Tools**: Rider, Git, Jenkins, Plastic SCM, Jira
+- **Other**: Addressables, Sprite Atlases, ScriptableObjects, Firebase
+
+---
+
+## 📱 Projects & Side Work
+
+I'm currently exploring:
+
+- 🕹️ Reactive programming 
+- 👁️‍🗨️ Custom UI shaders (blur, glow, etc.)
+- 🕵️‍♂️ Reverse engineering tools like ILSpy & dnSpy
+
+---
+
+## 📫 Get in Touch
+
+- 📧 [egeoral](mailto:egeoral@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ege-oral)
+
+---
+
 <div align="center">
-<p>Thank you for visiting, have a good day!</p>
+<p>Thanks for stopping by! Feel free to check out my pinned repos or reach out if you're working on something exciting., have a good day!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
