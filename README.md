@@ -1,6 +1,6 @@
 # 👋 Hello There, I'm Ege ORAL
 
-🎮 Computer Engineer | Game Developer at @Zynga
+🎮 Computer Engineer | Game Developer @Zynga
 
 ---
 
